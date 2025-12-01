@@ -1,14 +1,13 @@
 # Mirai
 
-Mirai (palavra japonesa para "futuro") é uma ferramenta de gerenciamento de projetos que visa ajudar equipes a colaborar e gerenciar seus projetos de forma mais eficaz.
-
 [![Site](https://img.shields.io/badge/Site-miraihq.com-blue)](https://www.miraihq.com)
 [![Docs](https://img.shields.io/badge/Docs-docs.miraihq.com-green)](https://docs.miraihq.com)
 [![Requisitos](https://img.shields.io/badge/Especificação%20de%20Requisitos-Google%20Docs-yellow)](https://docs.google.com/document/d/17WfJqMz5PNQoFi0NaTzUSNIQouQBlWQumMzeMxhsgA0/edit)
 [![Vídeo Demo](https://img.shields.io/badge/Vídeo%20Demo-YouTube-red)](https://youtu.be/1zVtlf2vGds)
-[![mirai-api](https://img.shields.io/badge/GitHub-mirai--api-black)](https://github.com/kauanhindlmayer/mirai-api)
-[![mirai-app](https://img.shields.io/badge/GitHub-mirai--app-black)](https://github.com/kauanhindlmayer/mirai-app)
-[![mirai-docs](https://img.shields.io/badge/GitHub-mirai--docs-black)](https://github.com/kauanhindlmayer/mirai-docs)
+
+Mirai (palavra japonesa para "futuro") é uma ferramenta de gerenciamento de projetos que visa ajudar equipes a colaborar e gerenciar seus projetos de forma mais eficaz.
+
+## Funcionalidades
 
 <p align="center">
   <p>
@@ -44,6 +43,12 @@ Mirai (palavra japonesa para "futuro") é uma ferramenta de gerenciamento de pro
     <img src="images/project-settings.png" width="400px"/>
   </p>
 </p>
+
+## Repositórios
+
+[![mirai-api](https://img.shields.io/badge/GitHub-mirai--api-black)](https://github.com/kauanhindlmayer/mirai-api)
+[![mirai-app](https://img.shields.io/badge/GitHub-mirai--app-black)](https://github.com/kauanhindlmayer/mirai-app)
+[![mirai-docs](https://img.shields.io/badge/GitHub-mirai--docs-black)](https://github.com/kauanhindlmayer/mirai-docs)
 
 ## Tecnologias
 
